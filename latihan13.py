@@ -5,7 +5,7 @@ jadwal_senin = ["Matematika", "Bahasa Indonesia", "Olahraga", "Sejarah"]
 print(jadwal_senin)
 
 # Cetak hanya mata pelajaran pertama
-print(jadwal_senin[0])
+print(jadwal_senin[0]) 
 
 # Cetak mata pelajaran terakhir menggunakan indeks negatif
 print(jadwal_senin[-1])
