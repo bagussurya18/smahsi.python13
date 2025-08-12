@@ -2,8 +2,8 @@
 jadwal_senin = ["Matematika", "Bahasa Indonesia", "Olahraga", "Sejarah"]
 
 # Cetak seluruh list
-print(jadwal_senin)
-
+print(jadwal_senin)  
+ 
 # Cetak hanya mata pelajaran pertama
 print(jadwal_senin[0]) 
 
